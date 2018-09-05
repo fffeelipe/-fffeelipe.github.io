@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Felipe Epia</title>
+		<description>Welcome to my page！</description>
+		<link>http://localhost:4000/jekyll-xixia</link>
+		<atom:link href="http://localhost:4000/jekyll-xixia/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Read Me</title>
+				<description>&lt;h1 id=&quot;jekyll-xixia&quot;&gt;Jekyll Xixia&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get it from &lt;a href=&quot;https://github.com/zxixia/jekyll-xixia&quot;&gt;github&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;See the &lt;a href=&quot;http://xixia.info/jekyll-xixia/&quot;&gt;live demo&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;See it &lt;a href=&quot;http://xixia.info/&quot;&gt;in action on my own blog&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A simple and clean Jekyll theme using &lt;a href=&quot;http://getbootstrap.com&quot;&gt;bootstrap&lt;/a&gt;
+(not to be confused with jekyll-bootstrap) that’s easy to modify and very
+modular in component and element reuse.&lt;/p&gt;
+
+&lt;p&gt;The theme works well on mobile phones, using a collapsable nav bar and hiding the
+sidebar. The links pane in the sidebar is available on mobile through the nav menu,
+and you can do the same thing for any other sections added to the sidebar.&lt;/p&gt;
+
+&lt;p&gt;Don’t forget to occassionally merge against my upstream repository so you can get
+the latest changes. Pull requests are encouraged and accepted!&lt;/p&gt;
+
+&lt;h1 id=&quot;preview&quot;&gt;Preview&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/jekyll-xixia//assets/images/preview.png&quot; alt=&quot;Xixia&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;license&quot;&gt;License&lt;/h1&gt;
+
+&lt;p&gt;The content of this theme is distributed and licensed under a
+&lt;img src=&quot;/jekyll-xixia/assets/images/cc_by_88x31.png&quot; alt=&quot;License Badge&quot; /&gt;
+&lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/legalcode&quot;&gt;Creative Commons Attribution 4.0 License&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This license lets others distribute, remix, tweak, and build upon your work,
+even commercially, as long as they credit you for the original creation. This
+is the most accommodating of licenses offered. Recommended for maximum
+dissemination and use of licensed materials.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In other words: you can do anything you want with this theme on any site, just please
+provide a link to &lt;a href=&quot;https://github.com/zxixia/jekyll-xixia&quot;&gt;the original theme on github&lt;/a&gt;
+so I get credit for the original design. Beyond that, have at it!&lt;/p&gt;
+
+&lt;h1 id=&quot;thanks&quot;&gt;Thanks&lt;/h1&gt;
+
+&lt;p&gt;1，&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2，&lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3，&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4，&lt;a href=&quot;https://github.com/scotte/jekyll-clean&quot;&gt;Jekyll Clean Theme&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 19 Sep 2017 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/jekyll-xixia/other/2017/09/19/README.html</link>
+				<guid isPermaLink="true">http://localhost:4000/jekyll-xixia/other/2017/09/19/README.html</guid>
+			</item>
+		
+			<item>
+				<title>How to get beautiful ASCII pics and ASCII text</title>
+				<description>&lt;h3 id=&quot;1ascii-generator&quot;&gt;1，ASCII Generator&lt;/h3&gt;
+
+&lt;p&gt;In &lt;a href=&quot;http://www.network-science.de/ascii/&quot;&gt;ASCII Generator&lt;/a&gt;, you can generate your ASCII texts。&lt;/p&gt;
+
+&lt;p&gt;Such like the &lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;XIXIA&lt;/code&gt;&lt;/strong&gt;！&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-v&quot; data-lang=&quot;v&quot;&gt;____  ___._______  ___.___   _____   
+\   \/  /|   \   \/  /|   | /  _  \  
+ \     / |   |\     / |   |/  /_\  \ 
+ /     \ |   |/     \ |   /    |    \
+/___/\  \|___/___/\  \|___\____|__  /
+      \_/          \_/            \/ 
+
+------------------------------------
+___   ___  __  ___   ___  __       ___      
+\  \ /  / |  | \  \ /  / |  |     /   \     
+ \  V  /  |  |  \  V  /  |  |    /  ^  \    
+  &amp;gt;   &amp;lt;   |  |   &amp;gt;   &amp;lt;   |  |   /  /_\  \   
+ /  .  \  |  |  /  .  \  |  |  /  _____  \  
+/__/ \__\ |__| /__/ \__\ |__| /__/     \__\ 
+
+------------------------------------
+__   _________   _______          
+\ \ / /_   _\ \ / /_   _|   /\    
+ \ V /  | |  \ V /  | |    /  \   
+  &amp;gt; &amp;lt;   | |   &amp;gt; &amp;lt;   | |   / /\ \  
+ / . \ _| |_ / . \ _| |_ / ____ \ 
+/_/ \_\_____/_/ \_\_____/_/    \_\   &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2chriscom&quot;&gt;2，Chris.com&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.chris.com/ascii/&quot;&gt;Chris.com&lt;/a&gt; collects a lot of ASCII pics, such like the world map：&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-v&quot; data-lang=&quot;v&quot;&gt;-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----
+           . _..::__:  ,-&quot;-&quot;._        |7       ,     _,.__
+   _.___ _ _&amp;lt;_&amp;gt;`!(._`.`-.    /         _._     `_ ,_/  '  '-._.---.-.__
+&amp;gt;.{     &quot; &quot; `-==,',._\{  \  / {)      / _ &quot;&amp;gt;_,-' `                mt-2_
+  \_.:--.       `._ )`^-. &quot;'       , [_/(                       __,/-'
+ '&quot;'     \         &quot;    _L        oD_,--'                )     /. (|
+          |           ,'          _)_.\\._&amp;lt;&amp;gt; 6              _,' /  '
+          `.         /           [_/_'` `&quot;(                &amp;lt;'}  )
+           \\    .-. )           /   `-'&quot;..' `:.#          _)  '
+    `        \  (  `(           /         `:\  &amp;gt; \  ,-^.  /' '
+              `._,   &quot;&quot;         |           \`'   \|   ?_)  {\
+                 `=.---.        `._._       ,'     &quot;`  |' ,- '.
+                   |    `-._         |     /          `:`&amp;lt;_|h--._
+                   (        &amp;gt;        .     | ,          `=.__.`-'\
+                    `.     /         |     |{|              ,-.,\     .
+                     |   ,'           \   / `'            ,&quot;     \
+                     |  /              |_'                |  __  /
+                     | |                                  '-'  `-'   \.
+                     |/                                         &quot;    /
+                     \.                                             '
+
+                      ,/            ______._.--._ _..---.---------._
+     ,-----&quot;-..?----_/ )      __,-'&quot;             &quot;                  (
+-.._(                  `-----'                                       `-
+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----
+Map (C) 1998 Matthew Thomas. Freely usable if this line is included. &amp;lt;-&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Elephant.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-v&quot; data-lang=&quot;v&quot;&gt;              ___.-~&quot;~-._   __....__
+            .'    `    \ ~&quot;~        ``-.
+           /` _      )  `\              `\
+          /`  a)    /     |               `\
+         :`        /      |                 \
+    &amp;lt;`-._|`  .-.  (      /   .            `;\\
+     `-. `--'_.'-.;\___/'   .      .       | \\
+  _     /:--`     |        /     /        .'  \\
+ (&quot;\   /`/        |       '     '         /    :`;
+ `\'\_/`/         .\     /`~`=-.:        /     ``
+   `._.'          /`\    |      `\      /(
+                 /  /\   |        `Y   /  \
+           jgs  J  /  Y  |         |  /`\  \
+               /  |   |  |         |  |  |  |
+              &quot;---&quot;  /___|        /___|  /__|
+                     '&quot;&quot;&quot;         '&quot;&quot;&quot;  '&quot;&quot;&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3welcome-to-lost-in-xixia&quot;&gt;3，Welcome to lost in Xixia&lt;/h3&gt;
+&lt;p&gt;The 404 page of Xixia, is based on ASCII pics and ASCII texts!&lt;/p&gt;
+
+&lt;p&gt;So, warmly welcome you to lost in &lt;a href=&quot;http://xixia.info/welcome-lost-in-xixia&quot;&gt;Xixia&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;thanks&quot;&gt;Thanks：&lt;/h3&gt;
+
+&lt;p&gt;1，&lt;a href=&quot;http://www.chris.com/ascii/&quot;&gt;Chris.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2，&lt;a href=&quot;http://www.network-science.de/ascii/&quot;&gt;ASCII Generator&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 15 Sep 2017 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/jekyll-xixia/programmer/2017/09/15/ascii-art-and-text.html</link>
+				<guid isPermaLink="true">http://localhost:4000/jekyll-xixia/programmer/2017/09/15/ascii-art-and-text.html</guid>
+			</item>
+		
+	</channel>
+</rss>
