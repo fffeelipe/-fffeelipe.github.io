@@ -3,8 +3,8 @@
 	<channel>
 		<title>Felipe Epia</title>
 		<description>Welcome to my page！</description>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000https://github.com/fffeelipe/fffeelipe.github.io/tree/master/_site</link>
+		<atom:link href="http://localhost:4000https://github.com/fffeelipe/fffeelipe.github.io/tree/master/_site/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>About me</title>
@@ -30,8 +30,8 @@ ruby (1 year)&lt;/p&gt;
 SQL, LXC, Linux.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 19 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/other/2017/09/19/README.html</link>
-				<guid isPermaLink="true">http://localhost:4000/other/2017/09/19/README.html</guid>
+				<link>http://localhost:4000https://github.com/fffeelipe/fffeelipe.github.io/tree/master/_site/other/2017/09/19/README.html</link>
+				<guid isPermaLink="true">http://localhost:4000https://github.com/fffeelipe/fffeelipe.github.io/tree/master/_site/other/2017/09/19/README.html</guid>
 			</item>
 		
 			<item>
@@ -131,8 +131,8 @@ Elephant.&lt;/p&gt;
 
 </description>
 				<pubDate>Fri, 15 Sep 2017 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/programmer/2017/09/15/ascii-art-and-text.html</link>
-				<guid isPermaLink="true">http://localhost:4000/programmer/2017/09/15/ascii-art-and-text.html</guid>
+				<link>http://localhost:4000https://github.com/fffeelipe/fffeelipe.github.io/tree/master/_site/programmer/2017/09/15/ascii-art-and-text.html</link>
+				<guid isPermaLink="true">http://localhost:4000https://github.com/fffeelipe/fffeelipe.github.io/tree/master/_site/programmer/2017/09/15/ascii-art-and-text.html</guid>
 			</item>
 		
 	</channel>
